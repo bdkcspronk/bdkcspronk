@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bradley
 
-<!--
-**bdkcspronk/bdkcspronk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Physics student based in Groningen.
 
-Here are some ideas to get you started:
+I use GitHub for university coursework, research-related code, and personal projects. Most of what I write is in C++ and Python, usually focused on numerical methods, simulations, and small tools I build to understand things better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+
+- University assignments and projects  
+- Computational physics and data analysis work  
+- Personal experiments and side projects  
+
+## Languages
+
+- C++  
+- Python  
+
+More projects will be added over time.
