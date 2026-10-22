@@ -12,7 +12,8 @@ I use GitHub for university coursework, research-related code, and personal proj
 
 ## Languages
 
-- C++  
-- Python  
+- Mathematica
+- Python
+- C++   
 
 More projects will be added over time.
